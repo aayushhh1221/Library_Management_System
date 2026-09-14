@@ -1,4 +1,4 @@
-# AI Powered Library Management System
+#Library Management System
 
 A practice project where I am building a Library Management System while learning backend development, Generative AI, RAG, and related technologies.
 
